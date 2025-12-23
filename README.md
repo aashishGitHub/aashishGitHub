@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Aashish</h1>
 <h3 align="center">I am a Software Developer currently exploring frontend, Couchbase Db, FTS</h3>
-
+<a align="center" href="https://youtu.be/R_xHHDPc-p0">
+   From Engineer to Product Thinker: Redesigning Search experience 
+  </a>
 <h3 align="left">Connect with me:</h3>
 <div id="badges"> 
   <a href="https://www.youtube.com/channel/UCgHoL7Na-5JDtQfXLIOXDcw">
@@ -9,9 +11,7 @@
   <a href="https://twitter.com/aashishkr01">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://youtu.be/R_xHHDPc-p0">
-   From Engineer to Product Thinker: Redesigning Search experience 
-  </a>
+  
 </div>
 
 
