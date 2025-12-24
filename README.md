@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Aashish</h1>
 <h3 align="center">I am a Software Developer currently exploring frontend, Couchbase Db, FTS</h3>
-<h4 align="center" ><a align="center" href="https://youtu.be/R_xHHDPc-p0">
+<!-- <h4 align="center" ><a align="center" href="https://youtu.be/R_xHHDPc-p0">
    From Engineer to Product Thinker: Redesigning Search experience 
   </a>
-   </h4>
+   </h4> -->
 <h3 align="left">Connect with me:</h3>
 <div id="badges"> 
   <a href="https://www.youtube.com/channel/UCgHoL7Na-5JDtQfXLIOXDcw">
